@@ -3,15 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package provaThreads;
+package provaThread;
 
 import javax.swing.JOptionPane;
 
 /**
  *
- * @author mortera.mattjairoort
+ * @author claudio.caputo
  */
-public class provaThreads {
+public class provaThread {
 
     /**
      * @param args the command line arguments
