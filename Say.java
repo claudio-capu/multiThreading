@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package provaThreads;
+package provaThread;
 
 /**
  *
- * @author mortera.mattjairoort
+ * @author claudio.caputo
  */
 public class Say extends Thread {
 
