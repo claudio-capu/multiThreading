@@ -8,7 +8,7 @@ Output3: Hi Hi Hi Hi Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello
 
 # Descrizione 
 
-Come si può notare nella precedente sequenza di Output, essi non sono tutti uguali, poichè il pogramma attraverso dei thread, sottoprocessi, che vengono eseguiti concorrentemente, dunque l'ordine degli output può variare a seconda della proprità di esecuzione.
+Come si può notare nella precedente sequenza di Output, essi non sono tutti uguali, poichè il pogramma viene suddiviso in thread, sottoprocessi, che vengono eseguiti concorrentemente, dunque l'ordine degli output può variare a seconda della proprità di esecuzione.
 
 # Che cos'è un Thread?
 
