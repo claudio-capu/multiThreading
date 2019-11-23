@@ -1,4 +1,4 @@
-# multiThreading
+# multiThreading 2.0
 
 > Output1: Hello Hello Hi Hi Hi Hi Hi Hi Hi Hi Hi Hi Hello Hello Hello Hello Hello Hello Hello Hello
 
