@@ -1,10 +1,10 @@
 # multiThreading 2.0
 
-> Output1: Hello Hello Hi Hi Hi Hi Hi Hi Hi Hi Hi Hi Hello Hello Hello Hello Hello Hello Hello Hello
+> Output1: CIAO  CIAO  CIAO  ciao  ciao  ciao  ciao  ciao  ciao  ciao  ciao  ciao  ciao  CIAO  CIAO  CIAO  CIAO  CIAO  CIAO  CIAO
 
-> Output2: Hi Hi Hi Hi Hi Hi Hi Hi Hi Hi Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello
+> Output2: CIAO  CIAO  CIAO  CIAO  CIAO  CIAO  ciao  CIAO  ciao  CIAO  CIAO  ciao  CIAO  ciao  ciao  ciao  ciao  ciao  ciao  ciao
 
-> Output3: Hi Hi Hi Hi Hello Hello Hello Hello Hello Hello Hello Hello Hello Hello Hi Hi Hi Hi Hi Hi
+> Output3: CIAO  ciao  ciao  ciao  ciao  ciao  ciao  ciao  ciao  ciao  ciao  CIAO  CIAO  CIAO  CIAO  CIAO  CIAO  CIAO  CIAO  CIAO
 
 # Descrizione 
 
