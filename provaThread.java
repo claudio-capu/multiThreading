@@ -20,8 +20,8 @@ public class provaThread {
 
         Hi ciao1 = new Hi();
         Hello ciao2 = new Hello();
-        Say parola1 = new Say("CIAO");
-        Say parola2 = new Say("ciao");
+        Say parola1 = new Say("CIAO ");
+        Say parola2 = new Say("ciao ");
         parola1.start();
         parola2.start();
         
