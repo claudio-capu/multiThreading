@@ -25,8 +25,8 @@ public class provaThread {
         parola1.start();
         parola2.start();
         
-        ciao1.start();
-        ciao2.start();
+        //ciao1.start();
+        //ciao2.start();
 
     }
 
